@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **.net**
 
-- 📫 How to reach me **mahmodalezaby@gmail.com**
+- 📫 How to reach me **nehalashraf639@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
