@@ -7,8 +7,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf" /> </p>
-- mahmoud alezaby is a front-end developer with three years of software development experience. He is experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I have also developed and maintained various JavaScript applications and have exceptional knowledge of React
-
+- nehalashraf is a front-end developer with two years of software development experience. i am  experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I have little experince of React
+and i am learning Embeded systems 
 
 - 🌱 I’m currently learning **Embeded Diploma and Data Analysis**
 
