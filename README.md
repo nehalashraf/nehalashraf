@@ -1,6 +1,6 @@
-# Ahmed Madeh - Machine Learning Engineer
+# Nehal Ashraf SQL Developer &&  Data Engineer
 
-👋 Hi there! Welcome to my GitHub profile. I'm a passionate Machine Learning Engineer with a deep interest in data science, artificial intelligence, and building intelligent systems. I love solving complex problems and leveraging data to make informed decisions.
+👋 Hi there! Welcome to my GitHub profile. I'm a passionate Data Engineer with a deep interest in data science,SQL, and Python .I love solving complex problems and leveraging data to make informed decisions.
 
 ## About Me
 
