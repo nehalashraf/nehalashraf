@@ -1,22 +1,31 @@
-### Hi there 👋
+# Ahmed Madeh - Machine Learning Engineer
 
-<h1 align="center">Hi 👋, I'm nehal ashraf</h1>
-<h3 align="center">A Software Engineer</h3>
+👋 Hi there! Welcome to my GitHub profile. I'm a passionate Machine Learning Engineer with a deep interest in data science, artificial intelligence, and building intelligent systems. I love solving complex problems and leveraging data to make informed decisions.
+
+## About Me
+
+- 🎓 I am a student at Zagazig University
+- 💼 Currently working as a Sql Developer  as a freelancer
+- 🌍 I'm based in EL sharqia  - Egypt.
+
+## My Expertise
+
+Here are some areas where I specialize:
 
 
 
+- **Data Engineer**: In this track, i’ll discover everything i need to know to become a data engineer by learning Python, SQL, and Git from scratch. You'll discover how to interact with relational databases to query, input, and modify data and get hands-on experience in importing and cleaning data in Python, optimizing your code for efficiency, and writing tests to validate your code.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf" /> </p>
-- nehalashraf is a front-end developer with two years of software development experience. i am  experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I have little experince of React
-and i am learning Embeded systems 
 
-- 🌱 I’m currently learning **Embeded Diploma and Data Analysis**
+- **Collaboration**: I'm a strong believer in open-source and actively contribute to the machine learning community by sharing code, tutorials, and resources.
 
-- 📫 How to reach me **nehalashraf639@gmail.com**
+## Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/nehal-ashraf-861698229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehalashraf" height="30" width="40" /></a>
-<a href="(https://www.facebook.com/nehall.ashraf)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nehalashraf" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/nehall368/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehal ashraf" height="30" width="40" /></a>
-</p>
+- 📫 You can reach me via email at [nehalashraf639@gmail.com].
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/nehal-ashraf-861698229/).
+
+## Let's Collaborate
+
+I'm always open to collaboration and learning from others. If you have an interesting project or idea you'd like to discuss, feel free to reach out. Let's work together to make the world a smarter place through machine learning!
+
+Thanks for visiting my GitHub profile. Happy coding! 🚀
