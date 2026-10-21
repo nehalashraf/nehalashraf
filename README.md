@@ -1,32 +1,30 @@
-# Nehal Ashraf SQL Developer &&  Data Analyst
+# Nehal Ashraf
+### SQL Developer · Data Analyst · Aspiring Data Engineer
 
+Computer Science student at Zagazig University, Egypt, focused on building a strong foundation in SQL, Python, and data engineering. I enjoy working with data, solving practical problems, and turning raw information into clear, useful insights.
 
-👋 Hi there! Welcome to my GitHub profile. I'm a passionate Data Engineer with a deep interest in data science,SQL, and Python .I love solving complex problems and leveraging data to make informed decisions.
+## About
 
-## About Me
+- 🎓 Computer Science student at Zagazig University
+- 💼 Freelance SQL Developer
+- 📍 Sharqia, Egypt
+- 🌱 Currently growing my skills in data engineering and analytics
 
-- 🎓 I am a student at Zagazig University
-- 💼 Currently working as a Sql Developer  as a freelancer
-- 🌍 I'm based in EL sharqia  - Egypt.
+## Skills
 
-## My Expertise
+- **Data:** SQL, relational databases, data analysis
+- **Programming:** Python
+- **Tools:** Git
 
-Here are some areas where I specialize:
+## Selected Work
 
+- [Synapse Legacy Project](https://github.com/nehalashraf/Synapse-Legacy-Project) — A collaborative project I helped develop.
 
+## Get in touch
 
-- **Data Engineer**: In this track, i’ll discover everything i need to know to become a data engineer by learning Python, SQL, and Git from scratch. You'll discover how to interact with relational databases to query, input, and modify data and get hands-on experience in importing and cleaning data in Python, optimizing your code for efficiency, and writing tests to validate your code.
+- [LinkedIn](https://www.linkedin.com/in/nehal-ashraf-861698229/)
+- [Email](mailto:nehalashraf639@gmail.com)
 
+---
 
-- **Collaboration**: I'm a strong believer in open-source and actively contribute to the machine learning community by sharing code, tutorials, and resources.
-
-## Connect with Me
-
-- 📫 You can reach me via email at [nehalashraf639@gmail.com].
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/nehal-ashraf-861698229/).
-
-## Let's Collaborate
-
-I'm always open to collaboration and learning from others. If you have an interesting project or idea you'd like to discuss, feel free to reach out. Let's work together to make the world a smarter place through machine learning!
-
-Thanks for visiting my GitHub profile. Happy coding! 🚀
+Thanks for stopping by. Feel free to connect or explore my repositories.
