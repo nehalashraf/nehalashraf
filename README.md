@@ -1,4 +1,5 @@
-# Nehal Ashraf SQL Developer &&  Data Engineer
+# Nehal Ashraf SQL Developer &&  Data Analyst
+
 
 👋 Hi there! Welcome to my GitHub profile. I'm a passionate Data Engineer with a deep interest in data science,SQL, and Python .I love solving complex problems and leveraging data to make informed decisions.
 
