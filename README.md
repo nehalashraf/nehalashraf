@@ -16,10 +16,6 @@ Computer Science student at Zagazig University, Egypt, focused on building a str
 - **Programming:** Python
 - **Tools:** Git
 
-## Selected Work
-
-- [Synapse Legacy Project](https://github.com/nehalashraf/Synapse-Legacy-Project) — A collaborative project I helped develop.
-
 ## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/nehal-ashraf-861698229/)
